@@ -118,3 +118,6 @@ The four plots example and **my version of four plots** are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+### My plot4.png
+![plot1](figure/plot4.png)
+
