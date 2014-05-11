@@ -89,7 +89,7 @@ GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
 
-The four plots example and my version of four plots are shown below. 
+The four plots example and **my version of four plots** are shown below. 
 
 
 ### Plot 1
@@ -111,6 +111,8 @@ The four plots example and my version of four plots are shown below.
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
+### My plot3.png
+![plot1](figure/plot3.png)
 
 ### Plot 4
 
