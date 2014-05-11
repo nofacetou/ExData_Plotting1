@@ -12,7 +12,7 @@ power$Date = as.Date(power$Date, "%d/%m/%Y")
 #plot plot4 and save as plot4.png
 png(file = "ExData_Plotting1/figure/plot4.png", width = 480, height = 480, units = "px", bg = "transparent")
 par(mfrow=c(2,2))
-plot(power$Time,power$Global_active_power, type = "l", ylab="Global Active Power(kilowatts)", xlab="")
+plot(power$Time,power$Global_active_power, type = "l", ylab="Global Active Power", xlab="")
 plot(power$Time,power$Voltage, type = "l", ylab="Voltage", xlab="datatime")
 plot(power$Time,power$Sub_metering_1, type = "l", ylab="Energy Sub Metering", xlab="")
 lines(power$Time,power$Sub_metering_2, col="red")
